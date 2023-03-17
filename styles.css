@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+div{
+    font-size: 20px;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    width: 200px;
+   background-color: purple;
+    padding: 10px;
+  border-left: thick 5px green  ;
+  
+   }
